@@ -1,0 +1,30 @@
+{
+  "name": "koalagochi",
+  "version": "0.0.1",
+  "description": "An online tamagochi based on a koala intended to use as a telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angrykoala/koalagochi.git"
+  },
+  "keywords": [
+    "koala",
+    "angry",
+    "bot",
+    "telegram",
+    "tamagochi"
+  ],
+  "author": "angrykoala <demiurgosoft@hotmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/angrykoala/koalagochi/issues"
+  },
+  "homepage": "https://github.com/angrykoala/koalagochi#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.23.3"
+  }
+}
