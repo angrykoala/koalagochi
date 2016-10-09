@@ -1,10 +1,11 @@
-#Koalagochi
+#Koalagochi 
 
->   An online tamagochi based on a koala intended to use as a telegram bot
+>   :koala: An online tamagochi based on a koala intended to use as a telegram bot
 
 ##  Usage
 
-Create a telegram bot and set the token with an env variable `BOT_TOKEN`
+-   [x]   Create a telegram bot 
+-   [x]   Set the token with an environtment variable `BOT_TOKEN`
 
 Alternatively you can create a file `key.json` and write your key in json format:
 ```javascript
@@ -12,9 +13,6 @@ Alternatively you can create a file `key.json` and write your key in json format
     "key" : "my token"    
 }
 ```
-
-##  Example
-
 
 ##  Contribute
 
