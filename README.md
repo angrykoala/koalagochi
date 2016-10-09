@@ -16,4 +16,4 @@ Alternatively you can create a file `key.json` and write your key in json format
 
 ##  Contribute
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+Distributed under the GNU GENERAL PUBLIC LICENSE. See ``LICENSE`` for more information.
